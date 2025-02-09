@@ -19,6 +19,9 @@
    <a href="https://www.linkedin.com/in/muhammad-ahsan-khanzada/">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" width="100" height="30"/>
   </a>
+   <a href="https://www.upwork.com/freelancers/~01adb0e857b3bb3c3d?viewMode=1">
+    <img src="https://th.bing.com/th/id/R.ede9a9f25188a935387f2e02b0a1b8ac?rik=kTg8tmwd00jxFQ&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f11%2fUpwork_logo_logotype.png&ehk=yybwHtEs%2fONQBvfbfJsrhU%2fWx2NMq7BomXEEP5vLA4I%3d&risl=&pid=ImgRaw&r=0" width="100" height="30"/>
+  </a>
 </div>
 
 ### Languages and Tools:
