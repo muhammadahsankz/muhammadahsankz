@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
 
 - 🔭 I’m a Flutter Developer
-- 🌱 I’m currently working as Full Stack Developer
+- 🌱 I’m currently working as a Full Stack Developer
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: ahsanshahidkhanzada@gmail.com
 - 😄 My website: https://muhammadahsanportfolio.web.app
